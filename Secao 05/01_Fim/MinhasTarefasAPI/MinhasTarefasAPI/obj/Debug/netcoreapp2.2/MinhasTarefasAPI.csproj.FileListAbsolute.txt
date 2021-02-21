@@ -1,0 +1,17 @@
+D:\Projetos\C#\Projetos\API\ASP.NETCoreWebAPI\Secao 05\01_Fim\MinhasTarefasAPI\MinhasTarefasAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Projetos\C#\Projetos\API\ASP.NETCoreWebAPI\Secao 05\01_Fim\MinhasTarefasAPI\MinhasTarefasAPI\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Projetos\C#\Projetos\API\ASP.NETCoreWebAPI\Secao 05\01_Fim\MinhasTarefasAPI\MinhasTarefasAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Projetos\C#\Projetos\API\ASP.NETCoreWebAPI\Secao 05\01_Fim\MinhasTarefasAPI\MinhasTarefasAPI\bin\Debug\netcoreapp2.2\MinhasTarefasAPI.deps.json
+D:\Projetos\C#\Projetos\API\ASP.NETCoreWebAPI\Secao 05\01_Fim\MinhasTarefasAPI\MinhasTarefasAPI\bin\Debug\netcoreapp2.2\MinhasTarefasAPI.runtimeconfig.json
+D:\Projetos\C#\Projetos\API\ASP.NETCoreWebAPI\Secao 05\01_Fim\MinhasTarefasAPI\MinhasTarefasAPI\bin\Debug\netcoreapp2.2\MinhasTarefasAPI.runtimeconfig.dev.json
+D:\Projetos\C#\Projetos\API\ASP.NETCoreWebAPI\Secao 05\01_Fim\MinhasTarefasAPI\MinhasTarefasAPI\bin\Debug\netcoreapp2.2\MinhasTarefasAPI.dll
+D:\Projetos\C#\Projetos\API\ASP.NETCoreWebAPI\Secao 05\01_Fim\MinhasTarefasAPI\MinhasTarefasAPI\obj\Debug\netcoreapp2.2\MinhasTarefasAPI.csprojAssemblyReference.cache
+D:\Projetos\C#\Projetos\API\ASP.NETCoreWebAPI\Secao 05\01_Fim\MinhasTarefasAPI\MinhasTarefasAPI\obj\Debug\netcoreapp2.2\MinhasTarefasAPI.RazorAssemblyInfo.cache
+D:\Projetos\C#\Projetos\API\ASP.NETCoreWebAPI\Secao 05\01_Fim\MinhasTarefasAPI\MinhasTarefasAPI\obj\Debug\netcoreapp2.2\MinhasTarefasAPI.RazorAssemblyInfo.cs
+D:\Projetos\C#\Projetos\API\ASP.NETCoreWebAPI\Secao 05\01_Fim\MinhasTarefasAPI\MinhasTarefasAPI\obj\Debug\netcoreapp2.2\MinhasTarefasAPI.AssemblyInfoInputs.cache
+D:\Projetos\C#\Projetos\API\ASP.NETCoreWebAPI\Secao 05\01_Fim\MinhasTarefasAPI\MinhasTarefasAPI\obj\Debug\netcoreapp2.2\MinhasTarefasAPI.AssemblyInfo.cs
+D:\Projetos\C#\Projetos\API\ASP.NETCoreWebAPI\Secao 05\01_Fim\MinhasTarefasAPI\MinhasTarefasAPI\obj\Debug\netcoreapp2.2\MinhasTarefasAPI.RazorTargetAssemblyInfo.cache
+D:\Projetos\C#\Projetos\API\ASP.NETCoreWebAPI\Secao 05\01_Fim\MinhasTarefasAPI\MinhasTarefasAPI\obj\Debug\netcoreapp2.2\MinhasTarefasAPI.genruntimeconfig.cache
+D:\Projetos\C#\Projetos\API\ASP.NETCoreWebAPI\Secao 05\01_Fim\MinhasTarefasAPI\MinhasTarefasAPI\bin\Debug\netcoreapp2.2\MinhasTarefasAPI.pdb
+D:\Projetos\C#\Projetos\API\ASP.NETCoreWebAPI\Secao 05\01_Fim\MinhasTarefasAPI\MinhasTarefasAPI\obj\Debug\netcoreapp2.2\MinhasTarefasAPI.dll
+D:\Projetos\C#\Projetos\API\ASP.NETCoreWebAPI\Secao 05\01_Fim\MinhasTarefasAPI\MinhasTarefasAPI\obj\Debug\netcoreapp2.2\MinhasTarefasAPI.pdb
